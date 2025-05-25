@@ -2,6 +2,7 @@
 # The Symphony of Uncertainty: Harmonizing Conflicting AGI Objectives Through Adaptive Goal-Orchestration Layers
 
 Author: Rogério Figurelli - Trajecta Labs - Date: 2025-05-25
+
 *Exploring how AGI systems can dynamically reconcile contradictory goals using real-time adaptive orchestration mechanisms under high uncertainty and shifting constraints.*
 
 ---
